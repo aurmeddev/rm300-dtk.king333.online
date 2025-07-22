@@ -248,3 +248,16 @@
         font-size: 12px;
     }
 }
+
+
+@media only screen and (max-width: 500px) {
+
+    .mid-bg {
+        height: 560px !important;
+    }
+
+    .mid-bg .btn-claim {
+        width: 100% !important;
+    }
+
+}
