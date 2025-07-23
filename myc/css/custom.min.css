@@ -348,12 +348,9 @@ input {
 }
 
 .btm-bg {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
   background-image: var(--desktop-btm);
   overflow: hidden;
   z-index: 0;
-  margin: -400px 0px 0px !important;
 }
 
 .btm-bg .text01 {
